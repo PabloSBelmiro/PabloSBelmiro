@@ -1,5 +1,5 @@
 ## Olá eu sou o Pablo Belmiro, bem-vindo ao meu perfil do github
-<img src = "giphy.gif" width = "300px">
+
 
 <div align="center">
   <a href="https://github.com/PabloSBelmiro">
